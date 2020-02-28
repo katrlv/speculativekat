@@ -1,17 +1,17 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Haezl`,
+    title: `Katryn's Maker Lab II Portfolio`,
     author: {
-      name: "gatsby starter haezl",
-      image: "/img/me.png",
-      biography: "A lightweight, mobile first blog starter with infinite scroll \
-        and Material-UI design elements for Gatsby.",
+      name: "Katryn's Maker Lab II Portfolio",
+      image: "https://media1.giphy.com/media/fo2dhRTmaULbStoFkX/giphy.gif",
+      biography: "Katryn Relleve is a User Experience Design student currently in her second year at Wilfrid Laurier University. \
+          This is her portfolio showcasing Maker Lab II projects.",
     },
     // for a list of supported networks take a look at https://jaketrent.github.io/react-social-icons/
     networks: [
-      "https://twitter.com/iamhaezl",
-      "https://github.com/haezl/gatsby-starter-haezl",
-      "mailto:mail@haezl.at",
+      "https://twitter.com/",
+      "https://github.com/",
+      "mailto:rell1960@mylaurier.ca",
     ],
     about: '<p>A lightweight, mobile first blog starter with infinite scroll \
     and Material-UI design elements for \
