@@ -3,7 +3,7 @@ module.exports = {
     title: `Katryn's Maker Lab II Portfolio`,
     author: {
       name: "Katryn's Maker Lab II Portfolio",
-      image: "",
+      image: "/img/giphy.gif",
       biography: "Katryn Relleve is a User Experience Design student currently in her second year at Wilfrid Laurier University. \
           This is her portfolio showcasing Maker Lab II projects.",
     },
