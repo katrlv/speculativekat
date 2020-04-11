@@ -14,7 +14,7 @@ module.exports = {
       "mailto:rell1960@mylaurier.ca",
     ],
     about: '<p>Katryn Relleve is a User Experience Design student currently in her second year at Wilfrid Laurier University. \
-    Recently, she worked as a Junior Web Designer for WCDSB. \
+    Previously, she worked as a Junior Web Designer for WCDSB. \
     Katryn is most interested in learning how to create designs driven by people and purpose. \
     This is her portfolio showcasing Maker Lab projects, which aim at achieving social good with the use of critical making. \
     </p> \
