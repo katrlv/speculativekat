@@ -20,7 +20,7 @@ const ContentArea = ({ data }: any) => (
         textAlign: "center",
       }}
     >
-      About {data.site.siteMetadata.title}
+      About
     </h1>
     {
       // tslint:disable:react-no-dangerous-html
