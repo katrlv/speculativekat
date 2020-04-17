@@ -23,6 +23,8 @@ To succeed in these areas, we went forward with conceptualizing a smartphone app
 
 We began with a discussion about how the companion application would work alongside our drug detections, and how it would fit into the user's overall experience with VibeGlass. The details we agreed on were then depicted within a storyboard:
 
+![local image](./vibeglass-storyboard.png "VibeGlass storyboard")
+
 The VibeGlass application would allow users to be silently notified about any occurrences of drug-spiking upon detection. This instant alert would be sensed both through the glass, as well as through the user's phone when enabled through the VibeGlass application. 
 
 Before creating our interactive prototype for the VibeGlass application, sketches were created to demonstrate its main features, as well as to give an idea of what the user flow would be within the app. Our prototype was then created in Adobe XD to create a fully interactive demonstration of the customized vibration alert system our application was meant to achieve. Each member of the team reviewed the screens and provided feedback for usability adjustments.
