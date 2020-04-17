@@ -5,8 +5,6 @@ description: "In this speculative design project, my team created a prototype fo
 cover: "sdp1 diagram.png"
 ---
 
-# Speculative Design Project 1: Drug-detector Prototype
-
 ## Summary
 
 For this speculative design project, my team was assigned to use speculative design strategies and critical making to create a speculative user experience which would engage the user's somatic senses. We wanted to design a device that would help to ensure a user's safety, eventually narrowing down our focus to creating a safety device that would protect against sexual assault. Our design involved a rape drug detector component, which, when attached to a drinking glass, would be able to alert the user via vibration if a drink were ever detected to be spiked. My team collaborated to create a prototype using recycled plastic materials to demonstrate our drug-detecting device.
