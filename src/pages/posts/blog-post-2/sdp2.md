@@ -25,9 +25,13 @@ We began with a discussion about how the companion application would work alongs
 
 ![local image](./vibeglass-storyboard.png "VibeGlass storyboard")
 
-The VibeGlass application would allow users to be silently notified about any occurrences of drug-spiking upon detection. This instant alert would be sensed both through the glass, as well as through the user's phone when enabled through the VibeGlass application. 
+The VibeGlass application would allow users to be silently notified about any occurrences of drug-spiking upon detection. This instant alert would be sensed both through the glass, as well as through the user's phone when enabled through the VibeGlass application. Before creating our interactive prototype for the VibeGlass application, sketches were created to demonstrate its main features, as well as to give an idea of what the user flow would be within the app. 
 
-Before creating our interactive prototype for the VibeGlass application, sketches were created to demonstrate its main features, as well as to give an idea of what the user flow would be within the app. Our prototype was then created in Adobe XD to create a fully interactive demonstration of the customized vibration alert system our application was meant to achieve. Each member of the team reviewed the screens and provided feedback for usability adjustments.
+![local image](./vibeglass-sketches.png "VibeGlass sketches")
+
+Our prototype was then created in Adobe XD to create a fully interactive demonstration of the customized vibration alert system our application was meant to achieve. Each member of the team reviewed the screens and provided feedback for usability adjustments.
+
+![local image](./vibeglass-screens.png "VibeGlass screens")
 
 I mainly worked on finding ways for our product to be integrated into the IoT. Audience feedback from our previous presentation indicated that it would be useful for the VibeGlass drug detectors to collect data with each incident of drug detection. Looking at the current capabilities of the IoT, I imagined that this data could be used by smart security systems embedded into entertainment venues and used by venue managers, stakeholders, and even law enforcers to better understand the current state of security within these venues and determine what specific measures should be taken to better ensure customers' safety.
 
