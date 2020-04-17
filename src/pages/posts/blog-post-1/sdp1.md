@@ -26,6 +26,8 @@ To initiate our speculative design process, we conducted research on what releva
 
 I was mainly involved in researching haptic safety technologies for this project. I learned about haptic steering wheels, as well as haptic firefighter helmets, and their use of vibration alerts to immediately focus the user's attention on completing tasks essential to their own, and other's, safety. Researching these technologies allowed me and my team to understand that our product would need a vibration alert strong enough to catch the user's attention in distracting environments like entertainment venues, without breaking the discreetness of the device.
 
+![local image](./drug-devices.png "drink-tampering prevention devices")
+
 We discussed a lot about creating the most comfortable experience possible for users, as our research on current drink-tampering prevention devices showed us that many would require the user to engage in unconventional actions, such as bringing the liquid of their drink in contact with nail polish or a ring. Initially we imagined our drug detection component to be one component only, being dropped into the drink to test for drugs, but we figured it would not be comfortable for users to retrieve the wet device once finished their beverage. 
 
 Eventually, we opted for our device to be composed of 2 magnetic components, with one attaching to the exterior of the glass to enable the user to remove the interior component without needing to come in contact with any residual liquid.
