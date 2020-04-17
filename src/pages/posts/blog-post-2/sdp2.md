@@ -2,7 +2,7 @@
 title: "Speculative Design Project 2: VibeGlass Application Prototype"
 date: "2020-04-15"
 description: "In the second part of our Speculative Design Project, we added an electronic component to our haptic device."
-cover: "vibeglass-screens.png"
+cover: "vibeglass-mockie.png"
 ---
 
 ## Summary
