@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Katryn's Maker Lab II Portfolio`,
+    title: "Katryn's Maker Lab II Portfolio",
     author: {
       name: "Katryn's Maker Lab II Portfolio",
       image: "/img/giphy.gif",
