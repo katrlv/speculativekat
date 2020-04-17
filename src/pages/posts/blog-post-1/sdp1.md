@@ -2,7 +2,7 @@
 title: "Speculative Design Project 1: Drug-detector Prototype"
 date: "2020-04-15"
 description: "In this speculative design project, my team created a prototype for a haptic drink-tampering prevention device."
-cover: "your-optionally-header-image.jpg"
+cover: ""
 ---
 
 # Speculative Design Project 1: Drug-detector Prototype
